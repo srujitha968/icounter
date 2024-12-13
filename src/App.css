@@ -1,0 +1,28 @@
+#he{
+  color: white;
+  background-color: rgb(44, 44, 44);
+}
+button{
+  width: 4rem;
+  height: 2.5rem;
+  background-color: aqua;
+  border: none;
+  font-weight: bolder;
+  font-size: larger;
+  border-radius: 8px;
+}
+button:hover{
+  width: 4.5rem;
+  height: 3rem;
+  cursor: pointer;
+  box-shadow: 5px 5px 5px 1px red;
+}
+h2{
+  color: orangered;
+}
+h1{
+  color: red;
+}
+body{
+  background-color:beige;
+}
